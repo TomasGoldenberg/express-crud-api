@@ -1,0 +1,7 @@
+{
+    "FirstName":"Jhon",
+    "LastName" : "Goldenberg",
+    "age"      : 23,
+    "job"      : "Node.js Dev",
+    "salary"   : 100.000
+}
